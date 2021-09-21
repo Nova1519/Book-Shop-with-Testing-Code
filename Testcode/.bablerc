@@ -1,0 +1,42 @@
+{
+    "presets" = [
+    "@babel/preset-env",
+    ["@babel/preset-react"]
+    ]
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// module.exports ={
+//     presets:[
+//         "@bable/preser-env",{
+//             targets : {
+//                 node: "current",
+//             },
+//         },
+//     ],
+// };
+
+
+// {
+//     "presents" = ["next/babel"]
+// };
+
+// {
+//     "presets" = ["@babel/preset-env", "@babel/preset-react"]
+//   }
+
+
